@@ -52,7 +52,7 @@ JSONL Output Schema
 {
   "date": "2025‑07‑23T15:42:17Z",
   "url": "https://example.com/article",
-  "summary": "One‑paragraph Ryoko‑style recap…",
+  "summary": "One‑paragraph recap…",
   "opinion_text": "Your reaction here…",
   "rating": 3           // -5 … +5 integer
 }
