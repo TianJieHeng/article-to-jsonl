@@ -1,0 +1,20 @@
+# ── Python artifacts ─────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# ── Virtual environment ─────────────────────────
+.venv/
+
+# ── Build / dist outputs ─────────────────────────
+build/
+dist/
+*.spec
+
+# ── User & app data ──────────────────────────────
+data/
+*.log
+
+# ── Secrets ──────────────────────────────────────
+.env

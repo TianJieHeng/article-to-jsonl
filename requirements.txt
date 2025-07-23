@@ -1,0 +1,6 @@
+openai>=1.30
+requests>=2.32
+beautifulsoup4>=4.12
+newspaper3k>=0.2.8
+python-dotenv>=1.0
+tqdm>=4.66
